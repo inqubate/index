@@ -1,2 +1,1 @@
-# sbmlprojects.github.io
-Blog site for #100daysofmlcode
+# Blog site for AI, Data, Software Architecture and Blockchain
